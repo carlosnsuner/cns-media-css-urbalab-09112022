@@ -1,0 +1,27 @@
+
+body{
+    background-color: bisque;
+    margin: 0;
+
+}
+
+.container-fluid{
+    background-color: red;
+    height: 100vh;
+}
+
+.colum{
+    background-color: green;
+    height: 10vh;
+    border: 1px solid black;
+}
+.main{
+    background-color: yellowgreen;
+    height: 80vh;
+}
+
+.footer{
+    background-color: rgb(43, 101, 226);
+    height: 10vh;
+    border: 1px solid black;
+}
